@@ -4,6 +4,7 @@
 
 
 ```javascript
+const path = require("path");
 const fs = require('fs');
 
 let files = [];
