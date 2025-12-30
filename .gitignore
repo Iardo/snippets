@@ -1,7 +1,8 @@
-# ignore these folders:
-# ignore these files:
+# folders include:
+# folders ignore:
 
 # --------------------
+# files include:
+!.gitkeep
 
-# include these folders:
-# include these files:
+# files ignore:
